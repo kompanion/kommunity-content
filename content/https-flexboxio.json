@@ -1,0 +1,13 @@
+{
+  "title": "What The Flexbox?! — A free course that will help you master CSS Flexbox",
+  "category": "CSS",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Flexbox is a must when writing CSS, and this free course is effective in teaching it - although not the best I've ever seen. There's one from Lynda.com that was better, but paid, I believe 🤔"
+    }
+  ],
+  "expertiseLevel": "allLevels",
+  "format": "course",
+  "url": "https://flexbox.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Cost Of JavaScript In 2018 – Addy Osmani",
+  "category": "Javascript",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Huge and exhaustive resource on the impacts of using too much JS in websites. Great read to keep us aware of how Gatsby / React could be better."
+    }
+  ],
+  "expertiseLevel": "allLevels",
+  "format": "article",
+  "url": "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4"
+}

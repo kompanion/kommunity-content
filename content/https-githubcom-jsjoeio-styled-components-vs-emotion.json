@@ -1,0 +1,13 @@
+{
+  "title": "Short doc comparing styled-components and emotion, by @jsjoeio",
+  "category": "CSS",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "An up-to-date article comparing the two most popular CSS-in-JS libraries. Not a very clear conclusion other than that sc is more popular and emotion tinier and more performant"
+    }
+  ],
+  "expertiseLevel": "",
+  "format": "",
+  "url": "https://github.com/jsjoeio/styled-components-vs-emotion"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "React For Beginners - course by Wes Bos",
+  "category": "React",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "This course was my first touch with React and made me productive in creating Gatsby websites really quickly, highly recommend it!"
+    }
+  ],
+  "expertiseLevel": "beginner",
+  "format": "course",
+  "url": "https://reactforbeginners.com/"
+}

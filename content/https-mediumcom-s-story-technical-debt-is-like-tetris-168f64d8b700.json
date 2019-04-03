@@ -1,0 +1,13 @@
+{
+  "title": "Technical Debt Is Like Tetris",
+  "category": "Workflow",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Quick article on how to balance refactoring old code that brings technical debt and moving forward building new code. "
+    }
+  ],
+  "expertiseLevel": "allLevels",
+  "format": "article",
+  "url": "https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700"
+}

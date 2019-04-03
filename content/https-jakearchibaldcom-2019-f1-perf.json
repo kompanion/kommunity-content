@@ -1,0 +1,13 @@
+{
+  "title": "Who has the fastest website in F1?",
+  "category": "Performance",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Jake Archibald created a fun and light approach to web performance by investigating the F1 teams' websites load times. A bit lenghty, but worth it!"
+    }
+  ],
+  "expertiseLevel": "allLevels",
+  "format": "article",
+  "url": "https://jakearchibald.com/2019/f1-perf/"
+}

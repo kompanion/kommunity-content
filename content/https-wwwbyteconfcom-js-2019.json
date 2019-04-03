@@ -1,0 +1,13 @@
+{
+  "title": "Byteconf JavaScript - free online conference",
+  "category": "Javascript",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "At the time of this submission, talks aren't out yet, but the line-up seems awesome!"
+    }
+  ],
+  "expertiseLevel": "allLevels",
+  "format": "video",
+  "url": "https://www.byteconf.com/js-2019"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "A method for Localization with Gatsby and Sanity.io",
+  "category": "CMS",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Travis does a thorough job in explaining a very effective way of creating multi-language properties with Gatsby and Sanity"
+    }
+  ],
+  "expertiseLevel": "intermediate",
+  "format": "tutorial",
+  "url": "https://www.gatsbyjs.org/blog/2019-03-01-localization-with-gatsby-and-sanity/"
+}
