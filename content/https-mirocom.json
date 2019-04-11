@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Miro | Online Whiteboard for Online Collaboration",
   "category": "Design",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "I use RealtimeBoard (now called Miro) daily and can't live without it! Perfect for getting ideas out there, running design sprints and much more .11/10"
     }
   ],
-  "expertiseLevel": "allLevels",
+  "skillLevel": "allLevels",
   "format": "tool",
   "url": "https://miro.com"
 }

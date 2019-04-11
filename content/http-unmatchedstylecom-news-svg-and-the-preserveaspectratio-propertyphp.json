@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "SVG and the preserveAspectRatio Property",
   "category": "HTML",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "You'll learn a bunch about SVGs for super unique layouts ✨"
     }
   ],
-  "expertiseLevel": "intermediate",
+  "skillLevel": "intermediate",
   "format": "article",
   "url": "http://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php"
 }

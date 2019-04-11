@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "The Fragmented, But Evolving State of CSS-in-JS",
   "category": "CSS",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "Great read if you're trying to decide which CSS-in-JS framework to use!"
     }
   ],
-  "expertiseLevel": "allLevels",
+  "skillLevel": "allLevels",
   "format": "article",
   "url": "https://css-tricks.com/the-fragmented-but-evolving-state-of-css-in-js/"
 }

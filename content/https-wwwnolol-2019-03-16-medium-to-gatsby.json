@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Migrating from Medium to Gatsby",
   "category": "Workflow",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "Tired of WP? This is a good start into a better life! hahaha"
     }
   ],
-  "expertiseLevel": "beginner",
+  "skillLevel": "beginner",
   "format": "article",
   "url": "https://www.no.lol/2019-03-16-medium-to-gatsby/"
 }

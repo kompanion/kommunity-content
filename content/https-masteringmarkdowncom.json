@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Mastering Markdown — A mini video series to learn to write in Markdown",
   "category": "Workflow",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "If you still don't know markdown, this ~1-hour course is a good start"
     }
   ],
-  "expertiseLevel": "beginner",
+  "skillLevel": "beginner",
   "format": "course",
   "url": "https://masteringmarkdown.com/"
 }

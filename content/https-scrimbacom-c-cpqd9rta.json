@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Creating a simple slider with React Hooks",
   "url": "https://scrimba.com/c/cpqd9rta",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "Good introduction to more practical usages of React hooks with nice CSS tips"
     }
   ],
-  "expertiseLevel": "intermediate",
+  "skillLevel": "intermediate",
   "category": "React",
   "format": "tutorial"
 }

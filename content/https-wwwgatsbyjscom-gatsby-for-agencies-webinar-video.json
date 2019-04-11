@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Gatsby for Agencies and Teams: Better, Faster, Smarter",
   "category": "Business",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "One of the best webinars promoted by Gatsby, this one is highly recommended for devs who deal with external clients. I got a few tips to take back to my agency :)"
     }
   ],
-  "expertiseLevel": "allLevels",
+  "skillLevel": "allLevels",
   "format": "video",
   "url": "https://www.gatsbyjs.com/gatsby-for-agencies-webinar-video/"
 }

@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Byteconf JavaScript - free online conference",
   "category": "Javascript",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "At the time of this submission, talks aren't out yet, but the line-up seems awesome!"
     }
   ],
-  "expertiseLevel": "allLevels",
+  "skillLevel": "allLevels",
   "format": "video",
   "url": "https://www.byteconf.com/js-2019"
 }

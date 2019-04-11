@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Free course on CSS Grid by Wes Bos",
   "category": "CMS",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "If you still don't know CSS Grid, this course is a great option for learning it - effective and brief explanation (gotta admit, I'm Wes' fanboy)"
     }
   ],
-  "expertiseLevel": "allLevels",
+  "skillLevel": "allLevels",
   "format": "course",
   "url": "https://cssgrid.io/"
 }

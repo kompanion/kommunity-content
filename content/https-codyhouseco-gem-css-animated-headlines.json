@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "CSS Animated Headlines",
   "category": "CSS",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "Not the clearest explanation, but you'll learn some new cool CSS tricks anyways ;)"
     }
   ],
-  "expertiseLevel": "intermediate",
+  "skillLevel": "intermediate",
   "format": "tutorial",
   "url": "https://codyhouse.co/gem/css-animated-headlines"
 }

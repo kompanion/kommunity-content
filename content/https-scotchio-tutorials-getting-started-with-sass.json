@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Getting Started with SASS (with Interactive Examples)",
   "category": "CSS",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "Helped me a lot when I started learning SASS 😉"
     }
   ],
-  "expertiseLevel": "beginner",
+  "skillLevel": "beginner",
   "format": "tutorial",
   "url": "https://scotch.io/tutorials/getting-started-with-sass"
 }

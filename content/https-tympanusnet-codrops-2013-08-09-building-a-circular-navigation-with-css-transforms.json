@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Building a Circular Navigation with CSS Transforms",
   "category": "CSS",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "Sara Soueidan does a great job in teaching new CSS techniques by building a cool circular menu 😄"
     }
   ],
-  "expertiseLevel": "intermediate",
+  "skillLevel": "intermediate",
   "format": "tutorial",
   "url": "https://tympanus.net/codrops/2013/08/09/building-a-circular-navigation-with-css-transforms/"
 }

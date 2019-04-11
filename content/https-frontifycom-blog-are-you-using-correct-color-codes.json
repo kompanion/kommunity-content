@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2019-04-11",
   "title": "Are You Using Correct Color Codes? Probably Not — And Here's Why.",
   "category": "Workflow",
   "recommendations": [
@@ -7,7 +8,7 @@
       "comment": "A quick read on how to avoid design inconsistencies when copying colors from Photoshop and the likes."
     }
   ],
-  "expertiseLevel": "allLevels",
+  "skillLevel": "allLevels",
   "format": "article",
   "url": "https://frontify.com/blog/are-you-using-correct-color-codes"
 }
