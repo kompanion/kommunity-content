@@ -11,7 +11,7 @@ This repo is used solely for storing and revisioning content for the kompanion k
 // "format?:" -> the question mark (?) means it's an optional property
 
 type TExpertiseLevels = "beginner" | "intermediate" | "advanced" | "allLevels";
-type TCategories = "CMS" | "GraphQL" | "Business" | "Themes" | "Workflow" | "CSS" | "SEO" | "React" | "PWA" | "DevOps" | "Design";
+type TTopics = "CMS" | "GraphQL" | "Business" | "Themes" | "Workflow" | "CSS" | "SEO" | "React" | "PWA" | "DevOps" | "Design";
 type TFormats = "video" | "article" | "audio" | "tutorial" | "course" | "book" | "tool";
 
 interface IRecommendation {
@@ -23,7 +23,8 @@ interface IContent {
   title: string;
   url: string;
   recommendations: IRecommendation;
-  category: TCategories;
+  topic: TTopics;
+  lastUpdated: string; // 2019-04-30
   expertiseLevel?: TExpertiseLevels; // who is it for?
   format?: TFormats;
 }
