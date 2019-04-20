@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2019-04-14",
+  "title": "Learn Vanilla JS Roadmap",
+  "topic": "Javascript",
+  "skillLevel": "beginner",
+  "format": "course",
+  "url": "https://learnvanillajs.com/roadmap/",
+  "recommendations": [
+    {
+      "user": "verlok",
+      "comment": "Want to learn Vanilla JS but you don’t know where to start? Start with this.",
+      "twitterUrl": "https://twitter.com/verlok/status/1096826538761375744"
+    }
+  ]
+}

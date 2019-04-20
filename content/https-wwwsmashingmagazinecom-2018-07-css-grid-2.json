@@ -1,0 +1,20 @@
+{
+  "lastUpdated": "2019-04-03",
+  "title": "CSS Grid Level 2: Here Comes Subgrid",
+  "topic": "CSS",
+  "skillLevel": "allLevels",
+  "format": "article",
+  "url": "https://www.smashingmagazine.com/2018/07/css-grid-2/",
+  "recommendations": [
+    {
+      "user": "rachelandrew",
+      "comment": "CSS Grid Level 2: Here Comes Subgrid #oredev ",
+      "twitterUrl": "https://twitter.com/rachelandrew/status/1064453735559122945"
+    },
+    {
+      "user": "jensimmons",
+      "comment": "For more on `subgrid` — of course @rachelandrew has us covered:",
+      "twitterUrl": "https://twitter.com/jensimmons/status/1115705808162099201"
+    }
+  ]
+}
