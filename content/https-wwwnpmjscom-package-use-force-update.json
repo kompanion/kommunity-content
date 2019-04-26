@@ -1,0 +1,14 @@
+{
+  "url": "https://www.npmjs.com/package/use-force-update",
+  "title": "useForceUpdate",
+  "format": "tool",
+  "skillLevel": "beginner",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "CharlesStover",
+      "comment": "useForceUpdate is a React Hook that forces your functional component to re-render."
+    }
+  ]
+}
