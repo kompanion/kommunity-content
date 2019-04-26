@@ -1,0 +1,14 @@
+{
+  "url": "https://www.npmjs.com/package/use-react-router",
+  "title": "useReactRouter",
+  "format": "tool",
+  "skillLevel": "intermediate",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "CharlesStover",
+      "comment": "useReactRouter is a React Hook that provides pub-sub behavior for react-router. Unlike the withRouter Higher-Order Component, useReactRouter will re-render your component when the location changes!"
+    }
+  ]
+}
