@@ -1,6 +1,10 @@
-# kompanion kommunity - curated content 🥑
+# kommunity.dev content 🥑
 
-This repo is used solely for storing and revisioning content for the kompanion kommunity.
+This repository is used solely for storing and revisioning content for [kommunity.dev](https://kommunity.dev). If you're interested in the main repo with the source code for the site, refer to [`kompanion/kommunity`](https://github.com/kompanion/kommunity) 😉
+
+## Adding content
+
+If you want to suggest a new resource to the kommunity, simply fill-out the [submission form](https://beta.kommunity.dev/submit) in the official site. The content will be represented by a JSON object with the following interface:
 
 ```ts
 // Content's type definition in Typescript 
@@ -11,7 +15,7 @@ This repo is used solely for storing and revisioning content for the kompanion k
 // "format?:" -> the question mark (?) means it's an optional property
 
 type TExpertiseLevels = "beginner" | "intermediate" | "advanced" | "allLevels";
-type TTopics = "CMS" | "GraphQL" | "Business" | "Themes" | "Workflow" | "CSS" | "SEO" | "React" | "PWA" | "DevOps" | "Design";
+type TTopics = "CSS" | "Javascript" | "HTML" | "React" | "Gatsby" | "Serverless" | "Unsorted";
 type TFormats = "video" | "article" | "audio" | "tutorial" | "course" | "book" | "tool";
 
 interface IRecommendation {
@@ -32,12 +36,6 @@ interface IContent {
 
 File names will come in the shape `slugified-url.json`.
 
-## Importing from Notion
+## Pull request process
 
-Super useful if you're constantly saving content from the web with [Notion](https://notion.so)'s webclipper. (More to write about this later)
-
-1. Export your table as `.csv`;
-1. Use [CSV to JSON Converter](http://www.convertcsv.com/csv-to-json.htm) to create a huge JSON array;
-1. Find and replace in VS Code:
-  1. find: `("importance": "[^"]*")`
-  1. replace: `"suggestions": [{ "user": "YOUR_GH_HANDLE_HERE", $1}]`
+After submitting your pull request with the suggested content, maintainers will take a look at the resource to make sure it's aligned to kommunity.dev's topics and merge it into master. After merging, it'll be available after a website rebuild which, currently, is done manually, so allow a bit of time before it gets there or help [set-up the automatic CI/CD](https://github.com/kompanion/kommunity/issues/7) for the website 😄
