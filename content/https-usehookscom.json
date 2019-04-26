@@ -1,0 +1,45 @@
+{
+  "url": "https://usehooks.com/",
+  "title": "useHooks - Easy to understand React Hook recipes",
+  "format": "article",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "gragland",
+      "comment": "I just launched usehooks.com 🎣\nI'll be posting one new React Hook code recipe per day. The goal is to help people understand how hooks work and to feel more comfortable writing their own rather than rely on npm. Hope you find it useful!",
+      "twitterUrl": "https://twitter.com/gabe_ragland/status/1056978044437520385"
+    },
+    {
+      "user": "wrongakram",
+      "comment": "If you are using react hooks then you need to check out usehooks.com. Contains awesome react hook recipes for you to try out! #react #hooks #usehooks",
+      "twitterUrl": "https://twitter.com/wrongakram/status/1115977833971580928"
+    },
+    {
+      "user": "tvthatsme",
+      "comment": "If you’re trying to use and understand React hooks, usehooks.com is an amazing resource! Some really great ideas here.",
+      "twitterUrl": "https://twitter.com/tvernon_tech/status/1095711623686299650"
+    },
+    {
+      "user": "weeksling",
+      "comment": "How did I not know about this?\nAwesome resource on different ways to use hooks in your @reactjs application.\nCan't wait to try some of these in my own applications.",
+      "twitterUrl": "https://twitter.com/weeksling/status/1108475556948074497"
+    },
+    {
+      "user": "clementoriol",
+      "comment": "So, you're hard into this new React Hooks craze ? @gabe_ragland curates great hook recipes on usehooks.com",
+      "twitterUrl": "https://twitter.com/oriolclement/status/1120730300525490177"
+    },
+    {
+      "user": "sunnyday90210",
+      "comment": "This is a great resource for react hooks usehooks.com",
+      "twitterUrl": "https://twitter.com/devforcoffee/status/1117336323046559744"
+    },
+    {
+      "user": "doppelmutzi",
+      "comment": "usehooks.com is a nice page collecting React Hooks receipes for learning purposes. #Reactjs",
+      "twitterUrl": "https://twitter.com/doppelmutzi/status/1117399985283325955"
+    }
+  ]
+}

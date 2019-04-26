@@ -1,0 +1,45 @@
+{
+  "url": "https://bundlephobia.com/",
+  "title": "BundlePhobia ❘ cost of adding a npm package",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "Unsorted",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "3nvi",
+      "comment": "I really love bundlephobia.com to check out how big of a loading performance impact will an NPM package bring to my projects. Just noticed that it also reports whether the package is tree-shakeable or not. Awesome work guys!",
+      "twitterUrl": "https://twitter.com/AggArvanitakis/status/1112678268614909953"
+    },
+    {
+      "user": "c4software",
+      "comment": "Bundle Phobia - Find the cost of adding a npm package to your bundle.",
+      "twitterUrl": "https://twitter.com/c4software/status/1112806730373713920"
+    },
+    {
+      "user": "sulco",
+      "comment": "#JavaScript tip for today:\nTo quickly check the size of a library you're going to put in your bundle, you can use bundlephobia.com - not only shows relevant stats but also suggests possible alternatives💡",
+      "twitterUrl": "https://twitter.com/sulco/status/1113076904964378624"
+    },
+    {
+      "user": "satya164",
+      "comment": "I always use bundlephobia.com when adding a library. Helps me keep the size in check.",
+      "twitterUrl": "https://twitter.com/satya164/status/1114652873093259264"
+    },
+    {
+      "user": "rikukissa",
+      "comment": "Need to figure out the size of an npm dependency without installing it first? Check this out bundlephobia.com 🤩",
+      "twitterUrl": "https://twitter.com/rikurouvila/status/1116223462014705669"
+    },
+    {
+      "user": "Angristan",
+      "comment": "bundlephobia:  Find out the cost of adding a new frontend dependency to your project",
+      "twitterUrl": "https://twitter.com/fuolpit/status/1117031536719745024"
+    },
+    {
+      "user": "rthomas29",
+      "comment": "Wanna be proactive regarding bundle size? I highly suggest bundlephobia.com and the Import Cost VSCode extension. Two really convenient tools that help you decide what packages to include in your JS projects.",
+      "twitterUrl": "https://twitter.com/dev_rakeem/status/1120371655732342785"
+    }
+  ]
+}

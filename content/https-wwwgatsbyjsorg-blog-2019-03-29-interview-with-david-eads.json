@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gatsbyjs.org/blog/2019-03-29-interview-with-david-eads/",
+  "title": "Interview with David Eads from ProPublica",
+  "format": "article",
+  "skillLevel": "allLevels",
+  "topic": "Gatsby",
+  "lastUpdated": "2019-04-24",
+  "recommendations": [
+    {
+      "user": "calcsam",
+      "comment": "Excited about this @eads interview b/c he highlights two under-discussed @gatsbyjs benefits:\n\n(1) Long-term maintainability. Push a content piece & never worry about a DB falling over.\n\n(2) Google Sheets as your CMS. Easy to use. No onboarding needed.",
+      "twitterUrl": "https://twitter.com/calcsam/status/1112842323275051008"
+    },
+    {
+      "user": "brentryanjohnson",
+      "comment": "Instructive interview about @gatsbyjs in the newsroom with @propublica's @eads",
+      "twitterUrl": "https://twitter.com/forestglenroad/status/1114292648016105474"
+    }
+  ]
+}

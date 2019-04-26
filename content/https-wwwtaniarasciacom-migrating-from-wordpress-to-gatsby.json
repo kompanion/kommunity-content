@@ -1,8 +1,18 @@
 {
   "lastUpdated": "2019-04-11",
   "title": "The End of an Era: Migrating from WordPress to Gatsby",
-  "topic": "Workflow",
+  "topic": "Unsorted",
   "recommendations": [
+    {
+      "user": "taniarascia",
+      "comment": "After four years, I've finally migrated from @WordPress to @gatsbyjs. Now my site lives in a #NodeJS and #React environment and is hosted on @Netlify, and all my posts exist as beautiful markdown. I'm loving it.",
+      "twitterUrl": "https://twitter.com/taniarascia/status/1106435992171495424"
+    },
+    {
+      "user": "valeriopisapia",
+      "comment": "Interesting point of view regarding the Gatsby approach. The End of an Era: Migrating from WordPress to Gatsby",
+      "twitterUrl": "https://twitter.com/Movidastar/status/1118945438550433799"
+    },
     {
       "user": "hcavalieri",
       "comment": "Tania Rascia shares her experiences on moving off WordPress and into Gatsby, great read :D"

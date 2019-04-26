@@ -1,0 +1,35 @@
+{
+  "url": "https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work",
+  "title": "Deep dive: How do React hooks really work?",
+  "format": "article",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "kball",
+      "comment": "@kentcdodds calling out this AWESOME blog post by @swyx\nI think the best post not by @dan_abramov I've seen on hooks. :) ",
+      "twitterUrl": "https://twitter.com/kbal11/status/1116607569055715328"
+    },
+    {
+      "user": "stefanjudis",
+      "comment": "\"Deep dive: How do React hooks really work?\"\n 👆 there are many many articles on hooks these days. This article doesn't go into how to use them but how they actually work. Well done @swyx! 👏 #react",
+      "twitterUrl": "https://twitter.com/stefanjudis/status/1118784360344432640"
+    },
+    {
+      "user": "helderburato",
+      "comment": "Interesting post about React Hooks and how it works.",
+      "twitterUrl": "https://twitter.com/helderburato/status/1116724715761098752"
+    },
+    {
+      "user": "geldmacher",
+      "comment": "#Recommended #reading: \"Deep dive: How do React hooks really work?\"",
+      "twitterUrl": "https://twitter.com/tooArr/status/1105185816073175042"
+    },
+    {
+      "user": "JulianG",
+      "comment": "finally finished reading \"How do React hooks really work?\" \nthank you, @swyx !",
+      "twitterUrl": "https://twitter.com/JulianGWeb/status/1119709088231956480"
+    }
+  ]
+}

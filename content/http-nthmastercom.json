@@ -1,0 +1,20 @@
+{
+  "url": "http://nthmaster.com/",
+  "title": "Mastering the :nth-child | CSS3 pseudo classes and :nth-child ran",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "CSS",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "sulco",
+      "comment": "#CSS tip for today:\n\nWith `nth-child` you can select much more various sets of elements that you'd probably imagine. \nhttp://nthmaster.com  is a great resource to learn just that 😀",
+      "twitterUrl": "https://twitter.com/sulco/status/1121407086913630209"
+    },
+    {
+      "user": "jackmcconnell",
+      "comment": "Well this has blown my mind. Incredibly useful!",
+      "twitterUrl": "https://twitter.com/jackmcconnell/status/1072500378795692032"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.telerik.com/blogs/everything-you-need-to-create-a-custom-react-hook",
+  "title": "Everything You Need to Create a Custom React Hook",
+  "format": "tutorial",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "jbristowe",
+      "comment": "My colleague and web aficionado, @httpJunkie has written many articles about React Hooks. In his latest one, he shows how to create a custom hook and provides a solid template for custom hooks you may create in the future. #React ",
+      "twitterUrl": "https://twitter.com/JohnBristowe/status/1096499052479311872"
+    },
+    {
+      "user": "httpJunkie",
+      "comment": "Fourth Installment of a blog series working with React Hooks!",
+      "twitterUrl": "https://twitter.com/httpJunkie/status/1096133209408954368"
+    },
+    {
+      "user": "planetoftheweb",
+      "comment": "My friend @httpJunkie is doing a nice job of covering React at @ProgressSW. Check out his latest article on creating a custom React Hook.  #react #hooks #webdeveloper",
+      "twitterUrl": "https://twitter.com/planetoftheweb/status/1096596940098334720"
+    }
+  ]
+}

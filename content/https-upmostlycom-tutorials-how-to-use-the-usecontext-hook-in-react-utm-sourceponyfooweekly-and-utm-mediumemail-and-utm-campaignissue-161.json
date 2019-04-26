@@ -1,0 +1,20 @@
+{
+  "url": "https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-161",
+  "title": "How to Use the useContext Hook in React",
+  "format": "tutorial",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "jcrowson",
+      "comment": "2,500 words on helping you understand the useContext Hook and the Context API in React. Do yourself a favor and have a read 👉",
+      "twitterUrl": "https://twitter.com/upmostlyhq/status/1115075506033000450"
+    },
+    {
+      "user": "hasdid",
+      "comment": "#WebPlatform  #Automated | How to Use the useContext Hook in React",
+      "twitterUrl": "https://twitter.com/hasdid/status/1114132330157891584"
+    }
+  ]
+}

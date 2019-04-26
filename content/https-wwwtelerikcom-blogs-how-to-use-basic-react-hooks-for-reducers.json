@@ -1,0 +1,30 @@
+{
+  "url": "https://www.telerik.com/blogs/how-to-use-basic-react-hooks-for-reducers",
+  "title": "How to Use Basic React Hooks for Reducers",
+  "format": "tutorial",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "httpJunkie",
+      "comment": "My third article in a series on @reactjs Hooks. This one on useReducer!",
+      "twitterUrl": "https://twitter.com/httpJunkie/status/1088561133680652288"
+    },
+    {
+      "user": "nrch",
+      "comment": "Shiny new #React hooks - are you using this new feature? Check out the how-to-use article @httpJunkie just wrote about them",
+      "twitterUrl": "https://twitter.com/nora_init/status/1069570662061223938"
+    },
+    {
+      "user": "malixsys",
+      "comment": "Great article on hooks by @httpJunkie \n My problem is I cannot make a non-trivial custom hook with useEffect and useContext and be able to test it with the \"use `act()`\" complaint... 🤔",
+      "twitterUrl": "https://twitter.com/malix/status/1096849126296174592"
+    },
+    {
+      "user": "alexdevero",
+      "comment": "How to Use Basic React Hooks for Reducers",
+      "twitterUrl": "https://twitter.com/AlexDevero/status/1092818650237730817"
+    }
+  ]
+}

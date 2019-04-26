@@ -1,0 +1,15 @@
+{
+  "url": "https://github.com/CharlesStover/use-clippy",
+  "title": "useClippy React Hook",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "CharlesStover",
+      "comment": "useClippy lets you manage your users’ clipboards with a #ReactJS Hook",
+      "twitterUrl": "https://twitter.com/CharlesStover/status/1120090540874186752"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.youtube.com/watch?v=czi24DqUfSA",
+  "title": "Let’s learn state machines with David K. Piano! — Learn With Jason",
+  "format": "video",
+  "skillLevel": "intermediate",
+  "topic": "Javascript",
+  "lastUpdated": "2019-04-25",
+  "recommendations": [
+    {
+      "user": "dcorb",
+      "comment": "State machines have an *amazing* potential, and this video is a great introduction to them. I'm sure you'll be dreaming of the possibilities by the end ✨",
+      "twitterUrl": "https://twitter.com/dcorbacho/status/1121317309866565632"
+    },
+    {
+      "user": "hcavalieri",
+      "comment": "State machines have an *amazing* potential, and this video is a great introduction to them. I'm sure you'll be dreaming of the possibilities by the end ✨"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://gitmoji.carloscuesta.me/",
+  "title": "gitmoji | An emoji guide for your commit messages",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "Unsorted",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "jsjoeio",
+      "comment": "I can't believe I didn't know about this sooner! 😱",
+      "twitterUrl": "https://twitter.com/jsjoeio/status/1116781819511357440"
+    },
+    {
+      "user": "sampaccoud",
+      "comment": "been using gitmoji for a year and love it for the fun and quality standards it signals",
+      "twitterUrl": "https://twitter.com/sampaccoud/status/1120355798025158657"
+    }
+  ]
+}

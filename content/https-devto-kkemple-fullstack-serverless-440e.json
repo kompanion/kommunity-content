@@ -1,0 +1,15 @@
+{
+  "url": "https://dev.to/kkemple/fullstack-serverless-440e",
+  "title": "Fullstack Serverless",
+  "format": "article",
+  "skillLevel": "allLevels",
+  "topic": "Serverless",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "kkemple",
+      "comment": "I've been thinking a lot about what the recent changes in #serverless and the explosion of UI toolkits, frameworks, and CLIs means for how we build apps. I wrote about it and would love to hear your thoughts!",
+      "twitterUrl": "https://twitter.com/kurtiskemple/status/1110886582406524929"
+    }
+  ]
+}

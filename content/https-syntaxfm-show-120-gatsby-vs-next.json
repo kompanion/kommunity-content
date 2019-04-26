@@ -1,0 +1,30 @@
+{
+  "url": "https://syntax.fm/show/120/gatsby-vs-next",
+  "title": "Gatsby vs Next - Syntax.fm episode 120",
+  "format": "article",
+  "skillLevel": "allLevels",
+  "topic": "Gatsby",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "wesbos",
+      "comment": "It's here! The Gatsby vs Next.js @syntaxfm podcast. What should you choose for your next React project?",
+      "twitterUrl": "https://twitter.com/wesbos/status/1098222888891678720"
+    },
+    {
+      "user": "danielvanc",
+      "comment": "Last year I chose @gatsbyjs over #NextJS for my site. Why? Well, take a listen to @wesbos and @stolinski on the latest episode of @syntaxfm dvanc.co/gvn\nThey’ve done an awesome job explaining the pros and cons of each of the 2 big contenders in the #headlesscms world.",
+      "twitterUrl": "https://twitter.com/danielvanc/status/1098599653090750464"
+    },
+    {
+      "user": "retrospct",
+      "comment": "Enjoyed the @syntaxfm episode on Gatsby vs NextJs. It was a great high-level look at pros/cons of each and use cases for one versus the other.",
+      "twitterUrl": "https://twitter.com/retrospct/status/1100090683270950913"
+    },
+    {
+      "user": "shawnrivers",
+      "comment": "A great episode from @syntaxfm about @gatsbyjs and #Nextjs. And now I'm more convinced the best framework for my #Nogizaka46 PWA is @gatsbyjs.",
+      "twitterUrl": "https://twitter.com/yuxiao_he/status/1103681814957219840"
+    }
+  ]
+}

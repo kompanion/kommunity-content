@@ -1,0 +1,35 @@
+{
+  "url": "https://thepowerofserverless.info/",
+  "title": "The Power of Serverless",
+  "format": "article",
+  "skillLevel": "allLevels",
+  "topic": "Serverless",
+  "lastUpdated": "2019-04-24",
+  "recommendations": [
+    {
+      "user": "quiaro",
+      "comment": "Wow! What an excellent resource by @chriscoyier: thepowerofserverless.info. I hadn't realized just how much you can do and how many options there are when going \"serverless\".",
+      "twitterUrl": "https://twitter.com/kiaro/status/1088110712512307202"
+    },
+    {
+      "user": "spietrek",
+      "comment": "The Power of Serverless for Front-End Developers  https://t.co/jzfDY3yAVl",
+      "twitterUrl": "https://twitter.com/spietrek/status/1078756246277275650"
+    },
+    {
+      "user": "g3offrey",
+      "comment": "Serverless cheatsheet\nhttps://t.co/iTtH4Axu6k",
+      "twitterUrl": "https://twitter.com/sliceofchorizo/status/1090961701007253505"
+    },
+    {
+      "user": "mahdif",
+      "comment": "Such Serverless. Much power. Wow 😮  https://t.co/8z7xDOFgQ8",
+      "twitterUrl": "https://twitter.com/mahdif/status/1098710683342913536"
+    },
+    {
+      "user": "zachattack",
+      "comment": "My link of the day comes from the @jamstackconf talk by @chriscoyier on the power of the Front End Developer! thepowerofserverless.info is a great concise resource for experimenting with tools and serverless tech.",
+      "twitterUrl": "https://twitter.com/hanzouzach/status/1087800756420382720"
+    }
+  ]
+}
