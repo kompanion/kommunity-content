@@ -1,0 +1,14 @@
+{
+  "url": "https://medium.com/the-couch/preview-for-your-contentful-gatsby-site-with-next-js-1a871bc58c36",
+  "title": "Content Preview for your Contentful-Gatsby site with Next.js",
+  "format": "tutorial",
+  "skillLevel": "intermediate",
+  "topic": "React",
+  "lastUpdated": "2019-04-27",
+  "recommendations": [
+    {
+      "user": "iamkevingreen",
+      "comment": "Gatsby Preview is still in beta, and its pricing could be a barrier for some. As a result having self hosted options for creating previews for your Gatsby site are needed. This article walks through an option and caveats to doing so."
+    }
+  ]
+}
