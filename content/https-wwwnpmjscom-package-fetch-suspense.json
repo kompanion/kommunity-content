@@ -1,0 +1,14 @@
+{
+  "url": "https://www.npmjs.com/package/fetch-suspense",
+  "title": "useFetch",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "CharlesStover",
+      "comment": "useFetch is a React hook that supports the React 16.6 Suspense component implementation."
+    }
+  ]
+}
