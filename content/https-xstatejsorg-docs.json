@@ -1,0 +1,20 @@
+{
+  "url": "https://xstate.js.org/docs/",
+  "title": "XState - JavaScript state machines and statecharts",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "Javascript",
+  "lastUpdated": "2019-04-28",
+  "recommendations": [
+    {
+      "user": "ryanflorence",
+      "comment": "When I think about building a UI like the checkout process for my workshops it's impossible to imagine doing it without xstate.\n\nThe visualizer helps me write the code w/o any significant bugs or blindspots from the start.",
+      "twitterUrl": "https://twitter.com/ryanflorence/status/1084248892072329216"
+    },
+    {
+      "user": "d2s",
+      "comment": "XState by @DavidKPiano implements some of the patterns from the industrial engineering & embedded software development community to the JavaScript world. It can also be used as a modeling tool for test automation, allowing easier refactoring.",
+      "twitterUrl": "https://twitter.com/autiomaa/status/1122401349742866432"
+    }
+  ]
+}
