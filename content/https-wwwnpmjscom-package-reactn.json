@@ -1,0 +1,14 @@
+{
+  "url": "https://www.npmjs.com/package/reactn",
+  "title": "ReactN",
+  "format": "tool",
+  "skillLevel": "beginner",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "CharlesStover",
+      "comment": "ReactN is a extension of React that includes global state management."
+    }
+  ]
+}
