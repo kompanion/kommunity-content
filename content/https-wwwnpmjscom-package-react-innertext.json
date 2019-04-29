@@ -1,0 +1,14 @@
+{
+  "url": "https://www.npmjs.com/package/react-innertext",
+  "title": "React innerText",
+  "format": "tool",
+  "skillLevel": "beginner",
+  "topic": "React",
+  "lastUpdated": "2019-04-26",
+  "recommendations": [
+    {
+      "user": "CharlesStover",
+      "comment": "Returns the innerText of a React JSX object, similar to the innerText property of DOM elements."
+    }
+  ]
+}
