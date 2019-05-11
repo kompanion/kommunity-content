@@ -1,0 +1,14 @@
+{
+  "url": "https://material.io/",
+  "title": "Get design guidance and code",
+  "format": "tool",
+  "skillLevel": "allLevels",
+  "topic": "HTML",
+  "lastUpdated": "2019-05-11",
+  "recommendations": [
+    {
+      "user": "https://github.com/Didilv93",
+      "comment": "An excellent resource for powering large applications where creating components with agility and harmony is critical."
+    }
+  ]
+}
