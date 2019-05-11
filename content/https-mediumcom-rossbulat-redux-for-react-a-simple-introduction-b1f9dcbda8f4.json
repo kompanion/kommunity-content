@@ -1,0 +1,14 @@
+{
+  "url": "https://medium.com/@rossbulat/redux-for-react-a-simple-introduction-b1f9dcbda8f4",
+  "title": "Redux for React: A Simple Introduction",
+  "format": "tutorial",
+  "skillLevel": "allLevels",
+  "topic": "React",
+  "lastUpdated": "2019-05-11",
+  "recommendations": [
+    {
+      "user": "https://github.com/Didilv93",
+      "comment": "A state management tool becomes a necessity in React apps as your state increases in complexity, one such solution being Redux. Redux allows you to manage your entire application state in one object, called the Store."
+    }
+  ]
+}
