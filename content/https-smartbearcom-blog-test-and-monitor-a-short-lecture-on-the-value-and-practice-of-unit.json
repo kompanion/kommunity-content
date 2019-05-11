@@ -1,0 +1,14 @@
+{
+  "url": "https://smartbear.com/blog/test-and-monitor/a-short-lecture-on-the-value-and-practice-of-unit/",
+  "title": "A Short Lecture On The Value And Practice of Unit Testing",
+  "format": "article",
+  "skillLevel": "beginner",
+  "topic": "Javascript",
+  "lastUpdated": "2019-05-11",
+  "recommendations": [
+    {
+      "user": "https://github.com/Didilv93",
+      "comment": "\"unit tests are so important that they should be a first class language construct\"\n-Jeff Atwood"
+    }
+  ]
+}
