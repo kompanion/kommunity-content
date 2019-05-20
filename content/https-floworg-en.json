@@ -1,9 +1,9 @@
 {
   "url": "https://flow.org/en/",
-  "title": "FLOW IS A STATIC TYPE CHECKER FOR JAVASCRIPT.",
+  "title": "Flow - a static type checker for Javascript",
   "format": "tool",
   "skillLevel": "allLevels",
-  "topic": "Unsorted",
+  "topic": "Javascript",
   "lastUpdated": "2019-05-11",
   "recommendations": [
     {
