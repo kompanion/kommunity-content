@@ -1,0 +1,14 @@
+{
+  "url": "https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675",
+  "title": "Testing React with Jest and Enzyme I",
+  "format": "article",
+  "skillLevel": "beginner",
+  "topic": "Javascript",
+  "lastUpdated": "2019-05-11",
+  "recommendations": [
+    {
+      "user": "https://github.com/Didilv93",
+      "comment": "A good start for unit testing for front"
+    }
+  ]
+}
