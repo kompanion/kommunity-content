@@ -1,0 +1,14 @@
+{
+  "url": "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html",
+  "title": "Update on Async Rendering",
+  "format": "article",
+  "skillLevel": "intermediate",
+  "topic": "React",
+  "lastUpdated": "2019-05-11",
+  "recommendations": [
+    {
+      "user": "https://github.com/Didilv93",
+      "comment": "Developed without a thorough knowledge about the Lifecycle we are easily led to the creation of unsafe and legacy products. I consider these recipes an excellent help in preparing asynchronous components."
+    }
+  ]
+}
