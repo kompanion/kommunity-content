@@ -7,7 +7,7 @@
   "lastUpdated": "2019-05-11",
   "recommendations": [
     {
-      "user": "https://github.com/Didilv93",
+      "user": "Didilv93",
       "comment": "A JavaScript error in a part of the UI shouldn’t break the whole app. To solve this problem for React users, React 16 introduces a new concept of an “error boundary”."
     }
   ]
